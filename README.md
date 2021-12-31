@@ -19,7 +19,7 @@
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white">
 </div><br>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação, atualmente sigo estudando bootstrap e javascript.
 
 ## Projetos recentes:
 - [Site - unverso feminino](https://www.studiouniversofeminino.com.br/)
