@@ -8,7 +8,7 @@
 [![Whatsapp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloadscavalcante@gmail.com)
 
 ![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloadscavalcante&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My skill
 
 <div style="display: inline_block"><br>
