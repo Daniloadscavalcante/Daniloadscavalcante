@@ -22,7 +22,7 @@
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
 ## Projetos recentes:
-- [Site - unverso feminino](https://www.studiouniversofeminino.com.br/)
+- [Site - unverso feminino](https://studiouniversofeminino.netlify.app/)
 - [Site - eletrônica jaclesom](https://eletronicajaclesom.netlify.app/)
 - [Tela - Login game](https://gamesnipe.netlify.app/)
 - [Clone tela login Wise up ](https://clone-wise-up.netlify.app/)
